@@ -1,0 +1,21 @@
+{
+  "name": "improvise-server",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jareddlc/improvise-server.git"
+  },
+  "author": "Jared De La Cruz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jareddlc/improvise-server/issues"
+  },
+  "homepage": "https://github.com/jareddlc/improvise-server",
+  "dependencies": {
+    "express": "~3.4.8"
+  }
+}
